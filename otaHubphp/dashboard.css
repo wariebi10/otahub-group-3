@@ -1,0 +1,29 @@
+.text{
+    text-align: center;
+    font-style: italic;
+    color: black;
+}
+.links{
+    text-align: center;
+}
+.container .links{
+    position: sticky;
+}
+.img-fluid{
+    width: 100%;
+    height: 20%;
+}
+.container-head{
+    text-align: center;
+    padding-left: 10px;
+
+}
+.container-head a{
+    text-align: center;
+}
+.image{
+    height: 30px;
+    width: 30px;
+}
+
+

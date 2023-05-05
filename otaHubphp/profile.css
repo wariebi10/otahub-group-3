@@ -1,0 +1,13 @@
+.container-head{
+    text-align: center;
+}
+.container{
+    background-color: rgb(202, 229, 238);
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+    border-radius: 3vh;
+}
+.col{
+    /* margin-left: 15px; */
+    text-align: left;
+}
